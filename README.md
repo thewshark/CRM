@@ -29,17 +29,13 @@ The ManageSoft CRM is designed so you can manage all your company aspects, accou
 - Parameters
 - Files
 
-## Global Functions
+## Application Global Functions
 
 
 | Global Action | Description |
 | ------ | ------ |
 |CRM_GAS_api_create_provisory_account|Creates a provisory account on the CRM. It will be created with the inactive status so it can be confirmed by the administrator.|
 
+|CRM_GAS_api_exec_http_request|Executes an HTTP request to the API.|
 
-
-
-- CRM_GAS_api_exec_http_request
-
-Executes an HTTP request to the API.
 
