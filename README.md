@@ -6,10 +6,40 @@ The ManageSoft CRM is designed so you can manage all your company aspects, accou
 - All bus reporting is made thru the Microsoft APP Center for better reporting.
 - Available for Windows (UWP), Android and iOS.
 
-## CRM Modules
+## CRM General Modules
+
+- MyAccount
+- Agenda
+- Projects
+- Documents
+- Immobilized
+- Tickets
+- Products
+- Projects
+- Archive
+
+## CRM Administrator Exclusive Modules
 
 - Accounts
 - Applications
 - Licenses
-- Projects
-- Agenda
+- Devices
+- Logs
+- Notifications
+- Parameters
+- Files
+
+## Global Functions
+
+```sh
+CRM_GAS_api_create_provisory_account
+
+Creates a provisory account on the CRM. It will be created with the inactive status so it can be confirmed by the administrator.
+```
+
+
+
+- CRM_GAS_api_exec_http_request
+
+Executes an HTTP request to the API.
+
