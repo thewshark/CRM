@@ -6,6 +6,7 @@ The ManageSoft CRM is designed so you can manage all your company aspects, accou
 - All bus reporting is made thru the Microsoft APP Center for better reporting.
 - Available for Windows (UWP), Android and iOS.
 
+
 ## CRM General Modules
 
 - MyAccount
@@ -18,6 +19,7 @@ The ManageSoft CRM is designed so you can manage all your company aspects, accou
 - Projects
 - Archive
 
+
 ## CRM Administrator Exclusive Modules
 
 - Accounts
@@ -29,8 +31,8 @@ The ManageSoft CRM is designed so you can manage all your company aspects, accou
 - Parameters
 - Files
 
-## Application Global Functions
 
+## Application Global Functions
 
 | Global Action | Description | Error Address|
 | ------ | ------ | ------ |
