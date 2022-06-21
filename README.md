@@ -68,5 +68,7 @@ The ManageSoft CRM is designed so you can manage all your company aspects, accou
 ## Application Forms
 | Form | Description | Error Address|
 | ------ | ------ | ------ |
-|crm_application_login|||
-||Login|3000.XXX
+|crm_application_login|Login Button|3000.XXX|
+||Settings Button||
+||Recover Account Password Button||
+||Register Account Button||
