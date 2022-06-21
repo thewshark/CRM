@@ -64,3 +64,9 @@ The ManageSoft CRM is designed so you can manage all your company aspects, accou
 
 
 > Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
+
+## Application Forms
+| Form | Description | Error Address|
+| ------ | ------ | ------ |
+|crm_application_login|||
+||Login|3000.XXX
